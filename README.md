@@ -1,1 +1,1 @@
-Practicing DOM Manipulation by making balls
+Practicing DOM Manipulation by making bubbles
